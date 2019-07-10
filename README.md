@@ -5,4 +5,4 @@ Does it work? Perfectly.
 
 Is it clean? Cleaner than a freshly polished window.
 
-It is fun? Well... it's solitaire.
+It is fun? It's solitaire.
