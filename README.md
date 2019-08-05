@@ -1,5 +1,5 @@
 # JavaBakersDozenSolitaire
-Distract yourself for five minutes by playing my Baker's Dozen version of Solitaire.
+Distract yourself for five minutes by playing my Baker's Dozen version of Solitaire. I made this for the semester long project of Software Engineering.
 
 Does it work? Perfectly.
 
