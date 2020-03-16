@@ -10,5 +10,5 @@ You can use this [tutorial](https://gist.github.com/NawalJAhmed/2168f7659c08b6a0
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
   <br>
-  <em> Center Text Caption </em>
+  <em> Demo of the game </em>
 </p>
