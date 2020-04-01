@@ -5,8 +5,14 @@ This was a group project in which we had to go through the entire process of dev
 
 # Video Presentation of Game
 
+## Videos
+
+To use this, you need a link to the video, and you need to capture a still from the video yourself by fullscreening the video and using the snipping tool delayed by 2 seconds.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
+  <a href="https://www.youtube.com/watch?v=jNQXAC9IVRw&list=PLBGH6psvCLx46lC91XTNSwi5RPryOhhde
+  " target="_blank"><img src="https://user-images.githubusercontent.com/11577850/72564409-a6e03380-387d-11ea-9730-461e5bfb2621.PNG"
+  alt="YouTube video demo"/></a>
   <br>
-  <em> Demo of the game </em>
+  <em>YouTube Video Demo (Click on Image for Video) </em>
 </p>
